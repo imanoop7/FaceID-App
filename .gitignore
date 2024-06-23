@@ -5,3 +5,4 @@ data/*
 siamesemodel.h5
 /training_checkpoints
 application_data/*
+__pycache__/layers.cpython-311.pyc
